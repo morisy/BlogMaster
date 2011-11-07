@@ -55,5 +55,4 @@ for blogurl in bloglist:
         csvout.writerow([blogurl, "Error!", "Error!"])
                         
 
-csvout.close()
-f.close()          
+csvfile.close()
