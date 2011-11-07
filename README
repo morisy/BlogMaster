@@ -1,0 +1,6 @@
+BlogMaster
+==========
+
+This is a simple script that will, given certain parameters, tell you how many blog posts a list of bloggers posted last month.
+
+It currently uses the WordPress API, and requires an admin account to work properly, but I am planning on porting it to just scan RSS feeds.
